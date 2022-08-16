@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m a JavaScript Junior Developer, currently learning TypeScript and React, with the purpose of start working as a FullStack Developer when the opportunity comes.
+- 🌱 I’m a JavaScript Junior Developer, currently learning TypeScript and React with the purpose of start working as a FullStack Developer when the opportunity comes.
 - 👯 I’m looking to collaborate on new projects, to get my skills upgraded and create new friendships and relations.
 
 
